@@ -36,13 +36,13 @@
 <details>
   <summary><h3 align="left">Repository information</h3></summary>
   <div align="left">
-    <img height="130" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurbfonseca27&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
-    <img height="130" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurbfonseca27&layout=compact&theme=github_dark&hide_border=true" />
-    <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurbfonseca27&theme=github_dark"/>
+    <img height="130" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurbfonseca27&show_icons=true&include_all_commits=true&theme=default"/>
+    <img height="130" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurbfonseca27&layout=compact&theme=default" />
+    <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurbfonseca27&theme=default"/>
   </div>
   <div align="left">
-    <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurbfonseca27&theme=github_dark"/>
-    <img height="130" src="http://github-readme-streak-stats.herokuapp.com/?user=arthurbfonseca27&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurbfonseca27&theme=default"/>
+    <img height="130" src="http://github-readme-streak-stats.herokuapp.com/?user=arthurbfonseca27&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
   </div>
 </details>
 
