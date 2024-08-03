@@ -1,4 +1,4 @@
-###Hi, I'm Arthur 👋</h3>
+<h3 align="left">Hi, I'm Arthur 👋</h3>
 
 ###
 
