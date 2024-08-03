@@ -33,8 +33,6 @@
 </div>
 </div>
 
-###
-
 <details>
   <summary><h3 align="left">Repository information</h3></summary>
   <div align="left">
