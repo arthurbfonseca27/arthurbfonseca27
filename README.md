@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a computer science student at the Federal University of São Carlos (UFSCar) in Brazil. I love exploring different areas of computer science, such as software engineering and machine learning. I'm dedicated to advancing my studies while making sure to balance them with other passions like sports and reading.</p>
+<p align="left">I'm a computer science student at the Federal University of São Carlos (UFSCar) in Brazil. I love exploring different areas of computer science, such as software engineering and machine learning. I'm dedicated to advancing my studies while making sure to balance them with other passions like studying geopolitics and philosophy, engaging in sports, and reading.</p>
 
 ###
 
