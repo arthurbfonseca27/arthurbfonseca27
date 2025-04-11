@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• TypeScript, JavaScript, Python, Java, ReactJS, NodeJS.<br>• Scrum, Git, GitHub</p>
+<p align="left">• TypeScript, JavaScript, Python, ReactJS, NodeJS.<br>• Scrum, Git, GitHub</p>
 
 ###
 
